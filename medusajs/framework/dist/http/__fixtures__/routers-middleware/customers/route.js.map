@@ -1,1 +1,0 @@
-{"version":3,"file":"route.js","sourceRoot":"","sources":["../../../../../src/http/__fixtures__/routers-middleware/customers/route.ts"],"names":[],"mappings":";;AAEA,kBAEC;AAED,oBAEC;AAND,SAAgB,GAAG,CAAC,GAAY,EAAE,GAAa;IAC7C,GAAG,CAAC,IAAI,CAAC,gBAAgB,CAAC,CAAA;AAC5B,CAAC;AAED,SAAgB,IAAI,CAAC,GAAY,EAAE,GAAa;IAC9C,GAAG,CAAC,IAAI,CAAC,iBAAiB,CAAC,CAAA;AAC7B,CAAC"}

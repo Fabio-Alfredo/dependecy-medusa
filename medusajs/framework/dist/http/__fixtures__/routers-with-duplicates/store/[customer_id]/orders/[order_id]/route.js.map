@@ -1,1 +1,0 @@
-{"version":3,"file":"route.js","sourceRoot":"","sources":["../../../../../../../../src/http/__fixtures__/routers-with-duplicates/store/[customer_id]/orders/[order_id]/route.ts"],"names":[],"mappings":";;AAEA,kBAIC;AAJD,SAAgB,GAAG,CAAC,GAAY,EAAE,GAAa;IAC7C;sCACkC;IAClC,GAAG,CAAC,IAAI,CAAC,iBAAiB,GAAG,IAAI,CAAC,SAAS,CAAC,GAAG,CAAC,MAAM,CAAC,CAAC,CAAA;AAC1D,CAAC"}

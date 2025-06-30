@@ -1,1 +1,0 @@
-{"version":3,"file":"module-service.d.ts","sourceRoot":"","sources":["../../../../../../src/loaders/utils/__fixtures__/module-with-joiner-config/services/module-service.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,kBAAkB,EAAE,MAAM,iBAAiB,CAAA;AAGpE,qBAAa,aAAc,YAAW,cAAc;IAClD,cAAc,IAAI,kBAAkB;CAUrC"}
