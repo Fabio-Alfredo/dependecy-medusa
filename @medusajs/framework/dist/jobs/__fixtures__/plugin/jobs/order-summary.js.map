@@ -1,0 +1,1 @@
+{"version":3,"file":"order-summary.js","sourceRoot":"","sources":["../../../../../src/jobs/__fixtures__/plugin/jobs/order-summary.ts"],"names":[],"mappings":";;;AAEA,0BAEC;AAFc,KAAK,UAAU,OAAO,CAAC,SAA0B;IAC9D,OAAO,CAAC,GAAG,CAAC,kCAAkC,CAAC,CAAA;AACjD,CAAC;AAEY,QAAA,MAAM,GAAG;IACpB,IAAI,EAAE,kBAAkB;IACxB,QAAQ,EAAE,aAAa;IACvB,kBAAkB,EAAE,CAAC;CACtB,CAAA"}

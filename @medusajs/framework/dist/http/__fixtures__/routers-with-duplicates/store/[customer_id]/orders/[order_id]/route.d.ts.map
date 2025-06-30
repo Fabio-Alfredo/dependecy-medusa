@@ -1,0 +1,1 @@
+{"version":3,"file":"route.d.ts","sourceRoot":"","sources":["../../../../../../../../src/http/__fixtures__/routers-with-duplicates/store/[customer_id]/orders/[order_id]/route.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAA;AAE3C,wBAAgB,GAAG,CAAC,GAAG,EAAE,OAAO,EAAE,GAAG,EAAE,QAAQ,QAI9C"}

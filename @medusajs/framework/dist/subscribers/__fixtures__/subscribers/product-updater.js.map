@@ -1,0 +1,1 @@
+{"version":3,"file":"product-updater.js","sourceRoot":"","sources":["../../../../src/subscribers/__fixtures__/subscribers/product-updater.ts"],"names":[],"mappings":";;;AAEA,iCAEC;AAFc,KAAK,UAAU,cAAc,CAAC,CAAiB;IAC5D,OAAO,MAAM,OAAO,CAAC,OAAO,EAAE,CAAA;AAChC,CAAC;AAEY,QAAA,MAAM,GAAqB;IACtC,KAAK,EAAE,iBAAiB;IACxB,OAAO,EAAE;QACP,YAAY,EAAE,iBAAiB;KAChC;CACF,CAAA"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"dml-entity-model.js","sourceRoot":"","sources":["../../../../../../src/loaders/utils/__fixtures__/module-with-dml-without-joiner-config/models/dml-entity-model.ts"],"names":[],"mappings":";;;AAAA,2CAAuC;AAE1B,QAAA,WAAW,GAAG,aAAK,CAAC,MAAM,CAAC,aAAa,EAAE;IACrD,EAAE,EAAE,aAAK,CAAC,EAAE,EAAE,CAAC,UAAU,EAAE;IAC3B,IAAI,EAAE,aAAK,CAAC,IAAI,EAAE;CACnB,CAAC,CAAA"}
